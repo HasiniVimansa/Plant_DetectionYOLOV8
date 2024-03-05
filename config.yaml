@@ -1,0 +1,8 @@
+path: '/content/gdrive/MyDrive/YOLOMODEL/data'
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0: Chilly_Plant
+  1: Chilly_Fruit
